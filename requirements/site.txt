@@ -1,0 +1,4 @@
+click==8.0.4
+Jinja2==3.0.3
+Markdown==3.3.6
+watchgod==0.7

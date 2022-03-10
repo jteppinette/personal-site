@@ -1,0 +1,6 @@
+[tool.black]
+target-version = ["py37"]
+
+[tool.isort]
+profile = "black"
+sections = "FUTURE,STDLIB,THIRDPARTY,FIRSTPARTY,LOCALFOLDER"
