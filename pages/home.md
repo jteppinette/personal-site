@@ -7,7 +7,6 @@ decentralized governance | software engineering_
 
 **Identity**
 
-- Resume [PDF](resume.pdf)
 - GPG [EE68 5601 35DB 35C0 FE85 02F7 16B8 C7BE 21F5 3824](http://pgp.mit.edu/pks/lookup?op=vindex&fingerprint=on&search=0x16B8C7BE21F53824)
 
 **Contact**
