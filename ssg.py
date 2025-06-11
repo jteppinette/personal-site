@@ -2,10 +2,10 @@
 
 import os
 import sys
-from distutils.dir_util import copy_tree
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 from multiprocessing import Process
 from pathlib import Path
+from shutil import copytree
 
 import click
 from jinja2 import Environment, FileSystemLoader
@@ -53,7 +53,7 @@ def context(content):
 
 
 def build():
-    copy_tree("static", "dist")
+    copytree("static", "dist")
 
     template = theme.get_template("base.jinja")
 

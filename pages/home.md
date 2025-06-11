@@ -5,24 +5,18 @@ decentralized governance | software engineering_
 
 ---
 
-**Identity**
-
-- GPG [EE68 5601 35DB 35C0 FE85 02F7 16B8 C7BE 21F5 3824](http://pgp.mit.edu/pks/lookup?op=vindex&fingerprint=on&search=0x16B8C7BE21F53824)
-
 **Contact**
 
-- Email [jteppinette@jteppinette.com](mailto:jteppinette@jteppinette.com)
+- Email [josheppinette@gmail.com](mailto:josheppinette@gmail.com)
 
 **Open Source**
 
-- GitHub [jteppinette](https://github.com/jteppinette)
+- GitHub [josheppinette](https://github.com/josheppinette)
 
 **Social**
 
-- Linkedin [jteppinette](https://www.linkedin.com/in/jteppinette/)
-- Twitter [jteppinette](https://twitter.com/jteppinette)
-- Instagram [jteppinette](https://instagram.com/jteppinette)
-- Hacker News [jteppinette](https://news.ycombinator.com/user?id=jteppinette)
+- Linkedin [josheppinette](https://www.linkedin.com/in/josheppinette/)
+- Hacker News [josheppinette](https://news.ycombinator.com/user?id=josheppinette)
 
 ---
 
@@ -36,7 +30,7 @@ decentralized governance | software engineering_
   calculate, and share systems for managing the financials for a ski haus or
   other shared living situation._
 
-- [Python Logfmter](https://github.com/jteppinette/python-logfmter/) _- A Python
+- [Python Logfmter](https://github.com/josheppinette/python-logfmter/) _- A Python
   package which supports global logfmt formatted logging._
 
 ---
